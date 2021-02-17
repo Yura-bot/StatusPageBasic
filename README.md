@@ -1,2 +1,2 @@
 # StatusPageBasic
-📈 La page de status de Yra.
+📈 La page de status de Yura !
